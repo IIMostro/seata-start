@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="940db449-e3f3-41e7-887b-5c1b44905fa6" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/account-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/account-service/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/account-service/src/main/resources/registry.conf" beforeDir="false" afterPath="$PROJECT_DIR$/account-service/src/main/resources/registry.conf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/business-services/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/business-services/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/business-services/src/main/resources/registry.conf" beforeDir="false" afterPath="$PROJECT_DIR$/business-services/src/main/resources/registry.conf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/order-services/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/order-services/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/order-services/src/main/resources/registry.conf" beforeDir="false" afterPath="$PROJECT_DIR$/order-services/src/main/resources/registry.conf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage-services/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/storage-services/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage-services/src/main/resources/registry.conf" beforeDir="false" afterPath="$PROJECT_DIR$/storage-services/src/main/resources/registry.conf" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="userSettingsFile" value="$USER_HOME$/Applications/apache-maven-3.6.3/conf/settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1e5jJhWTDwTV7RoA0NUXuBzZdeT" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="TERMINAL_CUSTOM_COMMANDS_GOT_IT" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/business-services/src/main/resources" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.ilmostro.storage.config" />
+      <recent name="org.ilmostro.order" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/business-services/src/main/resources" />
+      <recent name="$PROJECT_DIR$/storage-services/src/main/resources" />
+      <recent name="$PROJECT_DIR$/order-services/src/main/resources" />
+      <recent name="$PROJECT_DIR$/account-service/src/main/resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.AccountServiceApplication">
+    <configuration name="generated-requests#1" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" path="$APPLICATION_CONFIG_DIR$/scratches/generated-requests.http" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <configuration name="AccountServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="account-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.ilmostro.account.AccountServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BusinessServicesApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="business-services" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.ilmostro.businesss.BusinessServicesApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderServicesApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="order-services" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.ilmostro.order.OrderServicesApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StorageServicesApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="storage-services" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.ilmostro.storage.StorageServicesApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="HTTP Request.generated-requests#1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="940db449-e3f3-41e7-887b-5c1b44905fa6" name="Default Changelist" comment="" />
+      <created>1593618277379</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593618277379</updated>
+      <workItem from="1593618278633" duration="238000" />
+      <workItem from="1593618629467" duration="19372000" />
+      <workItem from="1595069927999" duration="8010000" />
+    </task>
+    <task id="LOCAL-00001" summary="project start">
+      <created>1593915368688</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1593915368688</updated>
+    </task>
+    <task id="LOCAL-00002" summary="project start">
+      <created>1593916045498</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1593916045498</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="project start" />
+    <option name="LAST_COMMIT_MESSAGE" value="project start" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="208" y="23" width="1024" height="822" key="#Project_Structure" timestamp="1595077755401">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state x="208" y="23" width="1024" height="822" key="#Project_Structure/0.23.1440.822@0.23.1440.822" timestamp="1595077755401" />
+    <state x="533" y="125" key="#com.intellij.ide.util.MemberChooser" timestamp="1593786821547">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state x="533" y="125" key="#com.intellij.ide.util.MemberChooser/0.23.1440.822@0.23.1440.822" timestamp="1593786821547" />
+    <state x="157" y="33" key="CommitChangelistDialog2" timestamp="1595081372959">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state x="157" y="33" key="CommitChangelistDialog2/0.23.1440.822@0.23.1440.822" timestamp="1595081372959" />
+    <state x="100" y="123" width="1240" height="622" key="DiffContextDialog" timestamp="1593915311055">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state x="100" y="123" width="1240" height="622" key="DiffContextDialog/0.23.1440.822@0.23.1440.822" timestamp="1593915311054" />
+    <state width="1398" height="264" key="GridCell.Tab.0.bottom" timestamp="1595085540471">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state width="1398" height="264" key="GridCell.Tab.0.bottom/0.23.1440.822@0.23.1440.822" timestamp="1595085540471" />
+    <state width="1398" height="264" key="GridCell.Tab.0.center" timestamp="1595085540470">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state width="1398" height="264" key="GridCell.Tab.0.center/0.23.1440.822@0.23.1440.822" timestamp="1595085540470" />
+    <state width="1398" height="264" key="GridCell.Tab.0.left" timestamp="1595085540470">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state width="1398" height="264" key="GridCell.Tab.0.left/0.23.1440.822@0.23.1440.822" timestamp="1595085540470" />
+    <state width="1398" height="264" key="GridCell.Tab.0.right" timestamp="1595085540471">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state width="1398" height="264" key="GridCell.Tab.0.right/0.23.1440.822@0.23.1440.822" timestamp="1595085540471" />
+    <state width="1398" height="264" key="GridCell.Tab.1.bottom" timestamp="1595085540244">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state width="1398" height="264" key="GridCell.Tab.1.bottom/0.23.1440.822@0.23.1440.822" timestamp="1595085540244" />
+    <state width="1398" height="264" key="GridCell.Tab.1.center" timestamp="1595085540243">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state width="1398" height="264" key="GridCell.Tab.1.center/0.23.1440.822@0.23.1440.822" timestamp="1595085540243" />
+    <state width="1398" height="264" key="GridCell.Tab.1.left" timestamp="1595085540243">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state width="1398" height="264" key="GridCell.Tab.1.left/0.23.1440.822@0.23.1440.822" timestamp="1595085540243" />
+    <state width="1398" height="264" key="GridCell.Tab.1.right" timestamp="1595085540244">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state width="1398" height="264" key="GridCell.Tab.1.right/0.23.1440.822@0.23.1440.822" timestamp="1595085540244" />
+    <state width="1398" height="264" key="GridCell.Tab.2.bottom" timestamp="1595085540246">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state width="1398" height="264" key="GridCell.Tab.2.bottom/0.23.1440.822@0.23.1440.822" timestamp="1595085540246" />
+    <state width="1398" height="264" key="GridCell.Tab.2.center" timestamp="1595085540245">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state width="1398" height="264" key="GridCell.Tab.2.center/0.23.1440.822@0.23.1440.822" timestamp="1595085540245" />
+    <state width="1398" height="264" key="GridCell.Tab.2.left" timestamp="1595085540244">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state width="1398" height="264" key="GridCell.Tab.2.left/0.23.1440.822@0.23.1440.822" timestamp="1595085540244" />
+    <state width="1398" height="264" key="GridCell.Tab.2.right" timestamp="1595085540245">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state width="1398" height="264" key="GridCell.Tab.2.right/0.23.1440.822@0.23.1440.822" timestamp="1595085540245" />
+    <state x="208" y="23" width="1024" height="822" key="SettingsEditor" timestamp="1593915464470">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state x="208" y="23" width="1024" height="822" key="SettingsEditor/0.23.1440.822@0.23.1440.822" timestamp="1593915464470" />
+    <state x="88" y="97" key="new project wizard" timestamp="1595083401273">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state x="88" y="97" key="new project wizard/0.23.1440.822@0.23.1440.822" timestamp="1595083401273" />
+    <state x="385" y="85" width="670" height="676" key="search.everywhere.popup" timestamp="1593909164019">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state x="385" y="85" width="670" height="676" key="search.everywhere.popup/0.23.1440.822@0.23.1440.822" timestamp="1593909164019" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/business-services/src/main/java/org/ilmostro/businesss/service/BusinessService.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/storage-services/src/main/java/org/ilmostro/storage/service/StorageService.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/order-services/src/main/java/org/ilmostro/order/controller/OrderController.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/business-services/src/main/java/org/ilmostro/businesss/controller/BusinessController.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
